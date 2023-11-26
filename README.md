@@ -1,0 +1,2 @@
+# multi_thread_downloader
+qt实现的一个多线程下载器（ver1），用Apache HttpClient完成了http部分，未来通过task继承计划加入FTP下载、BT下载、EDonkey下载
