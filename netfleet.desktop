@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=Qt;KDE;Network;
+Comment[zh_CN]=
+Comment=
+Exec=/usr/bin/netfleet
+GenericName[zh_CN]=
+GenericName=
+Icon=/usr/share/pixmaps/netfleet.xpm
+MimeType=
+Name[zh_CN]=NetFleet
+Name=NetFleet
+Path=
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+
