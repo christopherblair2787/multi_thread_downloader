@@ -1,0 +1,14 @@
+Source: netfleet
+Section: net
+Priority: extra
+Maintainer: lsn <lsn752@gmail.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.0
+Homepage:  Download Manager
+
+Package: netfleet
+Version: 0.2.1
+Architecture: i386
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: NetFleet Download Manager
+ NetFleet is a cross-platform multi-threaded download utility.
